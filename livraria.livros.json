@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062805"
+  },
+  "codigo": 1,
+  "codEditora": 1,
+  "titulo": "O Senhor dos Anéis",
+  "resumo": "Uma aventura épica na Terra Média.",
+  "autores": [
+    "J.R.R. Tolkien"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062806"
+  },
+  "codigo": 2,
+  "codEditora": 2,
+  "titulo": "1984",
+  "resumo": "Um olhar sombrio sobre um futuro distópico.",
+  "autores": [
+    "George Orwell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062807"
+  },
+  "codigo": 3,
+  "codEditora": 3,
+  "titulo": "Dom Quixote",
+  "resumo": "As aventuras de um cavaleiro louco.",
+  "autores": [
+    "Miguel de Cervantes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062808"
+  },
+  "codigo": 4,
+  "codEditora": 3,
+  "titulo": "A Metamorfose",
+  "resumo": "A história de Gregor Samsa, que acorda transformado em um inseto gigante.",
+  "autores": [
+    "Franz Kafka"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd9062809"
+  },
+  "codigo": 5,
+  "codEditora": 2,
+  "titulo": "O Alquimista",
+  "resumo": "A jornada de um jovem pastor em busca de um tesouro, repleta de lições sobre a vida.",
+  "autores": [
+    "Paulo Coelho"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280a"
+  },
+  "codigo": 6,
+  "codEditora": 1,
+  "titulo": "Cem Anos de Solidão",
+  "resumo": "A saga da família Buendía na fictícia cidade de Macondo, explorando temas de amor, solidão e destino.",
+  "autores": [
+    "Gabriel García Márquez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280b"
+  },
+  "codigo": 7,
+  "codEditora": 2,
+  "titulo": "O Pequeno Príncipe",
+  "resumo": "Uma história poética sobre um jovem príncipe que viaja por diferentes planetas e aprende lições de vida.",
+  "autores": [
+    "Antoine de Saint-Exupéry"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280c"
+  },
+  "codigo": 8,
+  "codEditora": 3,
+  "titulo": "Orgulho e Preconceito",
+  "resumo": "Um romance que examina a moral e os costumes da sociedade britânica no século XIX, através da história de Elizabeth Bennet.",
+  "autores": [
+    "Jane Austen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280d"
+  },
+  "codigo": 9,
+  "codEditora": 2,
+  "titulo": "A Revolução dos Bichos",
+  "resumo": "Uma alegoria sobre a corrupção do socialismo, contada através da história de animais que tomam o controle de uma fazenda.",
+  "autores": [
+    "George Orwell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67327f5b96b3954cd906280e"
+  },
+  "codigo": 10,
+  "codEditora": 2,
+  "titulo": "Fahrenheit 451",
+  "resumo": "Uma distopia em que os livros são proibidos e os 'bombeiros' queimam qualquer um que for encontrado.",
+  "autores": [
+    "Ray Bradbury"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062810"
+  },
+  "codigo": 11,
+  "codEditora": 1,
+  "titulo": "Moby Dick",
+  "resumo": "A caçada épica do Capitão Ahab pela baleia branca Moby Dick.",
+  "autores": [
+    "Herman Melville"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062811"
+  },
+  "codigo": 12,
+  "codEditora": 3,
+  "titulo": "As Aventuras de Sherlock Holmes",
+  "resumo": "Uma coleção de histórias que seguem o famoso detetive Sherlock Holmes.",
+  "autores": [
+    "Arthur Conan Doyle"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062812"
+  },
+  "codigo": 13,
+  "codEditora": 2,
+  "titulo": "O Grande Gatsby",
+  "resumo": "A história trágica e glamourosa de Jay Gatsby e seu amor por Daisy Buchanan.",
+  "autores": [
+    "F. Scott Fitzgerald"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6732983e96b3954cd9062813"
+  },
+  "codigo": 14,
+  "codEditora": 1,
+  "titulo": "O Apanhador no Campo de Centeio",
+  "resumo": "A narrativa de Holden Caulfield, um adolescente rebelde e inquieto.",
+  "autores": [
+    "J.D. Salinger"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6733fe79ceb2e90fff1257e2"
+  },
+  "codEditora": 1,
+  "titulo": "A Paciente Silenciosa",
+  "resumo": "A paciente silenciosa é um romance policial de Alex Michaelides que conta a história de Alicia Berenson, uma pintora famosa que mata o marido, Gabriel, com cinco tiros no rosto e se recusa a falar",
+  "autores": [
+    "Alex Michaelides"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67349cea72fb66e04651b717"
+  },
+  "codEditora": 1,
+  "titulo": "O Homem Invisível",
+  "resumo": "O Homem Invisível é um romance clássico de H.G. Wells que conta a história de um homem que se torna invisível e cai em sua própria armadilha",
+  "autores": [
+    "H.G. Wells"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6734aef0c34cf973a80ebb1b"
+  },
+  "codEditora": 1,
+  "titulo": "A Máquina do Tempo",
+  "resumo": "Um romance de ficção científica de H. G. Wells, publicado em 1895. O livro conta a história de um cientista que constrói uma máquina do tempo e viaja para o ano 802.701, onde encontra um mundo povoado por duas raças: os elóis e os morlocks",
+  "autores": [
+    "H. G. Wells"
+  ]
+}]
